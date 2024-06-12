@@ -1,0 +1,11 @@
+num1 = int(input('Enter thr first number : '))
+num2 = int(input('Enter thr second number : '))
+
+print()
+print('Addition is :', num1 + num2,)
+print('Subtraction is :', num1 - num2,)
+print('Multiplication is :', num1 * num2,)
+print('Division is :', num1 / num2,)
+print('Qutionent is :', num1 // num2,)
+print('Remainder is :', num1 % num2,)
+print('Exponent is :', num1 ** num2,)
